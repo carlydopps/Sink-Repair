@@ -1,0 +1,54 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": 4,
+      "plumberId": 1,
+      "date_created": "2022-08-18T14:20:36.107Z",
+      "id": 1
+    }
+  ],
+  "requests": [
+    {
+      "description": "Trying this all again",
+      "address": "1000 Tries Way",
+      "budget": "200000",
+      "neededBy": "2022-08-10",
+      "status": false,
+      "id": 1
+    },
+    {
+      "description": "cnieorinber",
+      "address": "nuiweobbew",
+      "budget": "12423",
+      "neededBy": "",
+      "status": true,
+      "id": 4
+    },
+    {
+      "description": "nsonviwo",
+      "address": "niowenboi",
+      "budget": "23423",
+      "neededBy": "",
+      "status": false,
+      "id": 5
+    },
+    {
+      "description": "sgwe",
+      "address": "wegwt",
+      "budget": "124235",
+      "neededBy": "",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
